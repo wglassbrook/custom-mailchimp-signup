@@ -2,7 +2,7 @@
 
 ## Why?
 
-The purpose of this plugin is to allow administrators to embed a simple Mailchimp newsletter signup form anywhere on their website. I wanted to be able to customize the form code to my liking for usage in a specific theme. In it's current form, this plugin includes...
+The purpose of this WordPress plugin is to allow administrators to embed a simple Mailchimp newsletter signup form anywhere on their website. I wanted to be able to customize the form code to my liking for usage in a specific theme. In it's current form, this plugin includes...
 
 - Bootstrap 5 classes
 - Bootstrap form validation
